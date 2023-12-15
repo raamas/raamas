@@ -1,7 +1,23 @@
-### Hi there 👋
+### Hello, my name is Omar ✌
+
+I am a Full Stack Javacript Developer 👨‍💻 with +2 year of coding experience 👦  
+who intends to help you achieve as much goals in your project as i am capable. 🎯   
+
+## 👨‍💻Skills:
+-  Javascript
+-  Python
+-  React.JS
+-  Node.JS
+-  Svelte
+-  Git
+-  SQL
+
+## Goals:
+- Typescript
+- React Native
+- Docker
 
 <!--
-**raamas/raamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
