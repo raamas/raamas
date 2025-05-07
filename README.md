@@ -5,7 +5,7 @@ who intends to help you achieve as much goals in your project as i am capable. �
 
 ## 👨‍💻Skills:
 -  Javascript
--  Python
+-  Next.js
 -  React.JS
 -  Node.JS
 -  Svelte
