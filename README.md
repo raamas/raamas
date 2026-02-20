@@ -1,6 +1,20 @@
-### Hello, my name is Omar 
+# Hi, I'm Omar Riascos
 
-I'm a tech enthusiast who also happens to code.
-i love mexican music even though i'm colombian, and i also love javascript. 
-my main goal here is to share what i learn throughout the years and maybe even land a job. 
-i'm not gonna list any technologies here but rather just let them shine in the pinned seccion and the README file of every project. if you want to contact me text my twitter account or my linkedin. happy hacking.
+Systems Engineering student focused on building **AI-powered fullstack products** that solve real business problems.
+
+## What I’m working on
+- AI lead generation platform for identifying offline businesses and automating outreach
+- Trivela — intelligent travel planner with real-time cost estimation and itinerary optimization
+
+## Tech Stack
+Next.js · TypeScript · Node.js · PostgreSQL · AI SDKs · Vector DBs · Tailwind · REST/GraphQL · Realtime apps
+
+## Interests
+AI-native applications · SaaS development · System design · Automation · High-performance web apps
+
+## Goal
+Landing a **Frontend / Fullstack / AI-focused internship** where I can ship production-ready features and work on impactful products.
+
+## Contact
+- LinkedIn: [www.linkedin.com/in/omar-riascos-cordoba-370a35265]
+- Email: [mailto:omarriascoscordoba2006@gmail.com]
