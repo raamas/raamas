@@ -16,5 +16,5 @@ AI-native applications · SaaS development · System design · Automation · Hig
 Landing a **Frontend / Fullstack / AI-focused internship** where I can ship production-ready features and work on impactful products.
 
 ## Contact
-- LinkedIn: [www.linkedin.com/in/omar-riascos-cordoba-370a35265]
-- Email: [mailto:omarriascoscordoba2006@gmail.com]
+- [www.linkedin.com/in/omar-riascos-cordoba-370a35265](LinkedIn)
+- [mailto:omarriascoscordoba2006@gmail.com](Email)
